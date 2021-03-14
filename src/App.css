@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  
+}
+
+.calculator{
+  width: 400px;
+  
+  background: grey;
+  border-radius: 5px;
+}
